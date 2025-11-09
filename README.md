@@ -1,3 +1,5 @@
+**TEMPORARY FIXS TO THE GAME UNTIL IT CAN BE UPDATED!**
+
 <p align='center'>"There comes a moment of revelation,
 <br>When the familiar grows painfully dull,
 <br>And the heart yearns for a true trial.
