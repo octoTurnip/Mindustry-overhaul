@@ -5,9 +5,9 @@ health: 50000
 armor: 7
 researchCostMultiplier:6
 requirements: [
-    lead/15000
-    metaglass/9600
-    titanium/16000
-    thorium/12000
-    silicon/16000
+    lead/10000
+    metaglass/10000
+    titanium/10000
+    thorium/10000
+    silicon/10000
 ]
